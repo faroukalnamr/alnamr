@@ -1,2 +1,2 @@
-# farouk_alnamr
+farouk_alnamr
 modern technology 
